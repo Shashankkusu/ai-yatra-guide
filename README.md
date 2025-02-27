@@ -55,4 +55,4 @@ Contributions to improve the application are welcome! Feel free to fork the repo
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Gokul] at [gorthigokul77@gmail.com].
+For any questions or feedback, please contact [shashank] at [gowrisesharoa@gmail.com].
